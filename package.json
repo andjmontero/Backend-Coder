@@ -2,7 +2,7 @@
   "name": "andresmontero_desafio1",
   "version": "1.0.0",
   "description": "",
-  "main": "a.js",
+  "main": "express.js",
   "dependencies": {
     "express": "^4.17.1",
     "moment": "^2.29.1"
