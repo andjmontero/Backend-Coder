@@ -60,7 +60,7 @@ class Contenedor {
 }
 let contenedor = new Contenedor("contenedor.json");
 
-const PORT = 8080;
+const PORT = process.env.PORT || 8080;
 
 app.listen(PORT, () => {
   console.log("servidor correindo puedro 3001");
