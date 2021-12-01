@@ -1,0 +1,20 @@
+[
+  {
+    "title": "remera",
+    "price": "200",
+    "thumbnail": "https://plataforma.coderhouse.com/cursos/20620/programacion-backend",
+    "id": 1
+  },
+  {
+    "title": "buzo",
+    "price": "500",
+    "thumbnail": "https://plataforma.coderhouse.com/cursos/20620/programacion-backend",
+    "id": 2
+  },
+  {
+    "title": "campera",
+    "price": "800",
+    "thumbnail": "https://plataforma.coderhouse.com/cursos/20620/programacion-backend",
+    "id": 3
+  }
+]
